@@ -1,6 +1,6 @@
 # SK40C_MDS40A
 <strong>Description:</strong><br/>
-Sample source code using Using SK40C+PIC16F877A for MDS40A<br/><br/>
+Sample source code using SK40C+PIC16F877A for MDS40A<br/><br/>
 <strong>Tutorial:</strong><br/>
 <ul>
 <li><a href="http://tutorial.cytron.com.my/2012/07/26/sk40c-controlling-mds40a/" target="_blank">SK40C – Controlling MDS40A</a></li>
